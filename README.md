@@ -122,7 +122,7 @@ live, so they always reflect the current data and environment.
 - Frame every result as **observed / measured / directional / decision-support** — never
   "I predicted Google's algorithm."
 
-The `.gitignore` blocks datasets by default, and CI fails any commit that includes a dataset.
+The `.gitignore` blocks datasets by default, and CI fails any commit that includes a dataset.  
 
 ---
 
