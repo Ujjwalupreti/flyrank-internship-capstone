@@ -111,7 +111,7 @@ live, so they always reflect the current data and environment.
 **Teaching point:** the model is the capstone, but the *workflow* is the lesson —
 `problem framing → data cleaning → baseline → first model → evaluation → explainable recommendation`.
 
----
+--- 
 
 ## Data safety (read `DATA_USE.md`)
 
