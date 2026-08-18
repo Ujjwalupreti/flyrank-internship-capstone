@@ -9,7 +9,7 @@ at once. The rhythm is simple: do the work, commit it, submit on the card. Done.
 
 Everything here runs on a small **anonymized** slice of real FlyRank search data. No credentials,
 no private client data, no setup headaches.
- 
+  
 > **New here?** Two reads: **[SETUP.md](SETUP.md)** (GitHub, Colab, and data access — ten
 > minutes, with every silent pitfall flagged), then **[GUIDE.md](GUIDE.md)** (every file
 > explained, what to edit vs. leave alone, and where your own work goes — five minutes).
