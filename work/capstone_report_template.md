@@ -48,7 +48,7 @@ split**. What the errors look like — a short error analysis beats a big metric
 What the model/clusters actually found. Feature importances or cluster profiles in plain
 words. Surprises and negative results — a well-understood "no effect" is a valid result.
 
-## 7. Recommendation
+## 7. Recommendation 
 
 The ranked actions or decisions your output supports, and how a FlyRank editor would use them
 tomorrow. State your confidence and the limits explicitly.
