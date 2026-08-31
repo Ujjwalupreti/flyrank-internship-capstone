@@ -31,7 +31,7 @@ IDs (grouping only, never features). Confirm nothing client-identifying appears 
 ## 3. Baseline
 
 The transparent rule or score you built first. Why it's a fair comparison, and its numbers on
-the same data and metric as your model.
+the same data and metric as your model. 
 
 ## 4. Model / analysis
 
