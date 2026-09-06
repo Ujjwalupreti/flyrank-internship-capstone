@@ -3,7 +3,7 @@
 **Applied Search Intelligence: Google Search Ranking & Discoverability**
 
 This is the starting point for the FlyRank ML Internship. You **clone it into your own public
-repo** (one click — *Use this template*), build everything there, and submit that repo URL on 
+repo** (one click — *Use this template*), build everything there, and submit that repo URL on  
 each assignment in your portal — it's your workspace, your submission, and your portfolio all
 at once. The rhythm is simple: do the work, commit it, submit on the card. Done.
 
