@@ -94,7 +94,7 @@ That runs the whole pipeline on the bundled sample and writes results to `output
 ---
 
 ## The pipeline (what `run_all.py` does)
-
+    
 ```text
 01_prepare_features.py   clean + build the feature vector, define the label
 02_baseline_score.py     a transparent hand-rule "fix this first" score
