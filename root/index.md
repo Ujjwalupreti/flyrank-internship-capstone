@@ -16,7 +16,7 @@ Primary development was performed on the March 2026 partition following the inte
 **Feature Engineering**
 Features were engineered to capture both traffic engagement and content characteristics. The final feature vector included: `impressions`, `clicks`, `avg_position`, `sessions`, `pageviews`, `engaged_sessions`, `scroll_events`, `search_volume`, `word_count`, `char_count`, and `content_type`.
 
-**Target Definition**
+**Target Definition** 
 A binary target was derived from aggregated warehouse observations to distinguish pages requiring editorial review based on the defined refresh-opportunity criteria.
 
 **Baseline vs. Model**
