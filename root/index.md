@@ -57,7 +57,7 @@ The validated model outputs a ranked action queue with reason codes to guide edi
 **Top Ranked Content Review Opportunities:**
 
 ![Ranked Recommendations](work/figures/ranked_recommendations.png)
-*Figure 1. The model ranks pages according to predicted refresh priority using observable search-performance metrics. These recommendations are intended to support editorial review and should not be interpreted as guarantees of ranking improvements.*
+*Figure 1. The model ranks pages according to predicted refresh priority using observable search-performance metrics. These recommendations are intended to support editorial review and should not be interpreted as guarantees of ranking improvements.* 
 
 ## 8. Reproducibility
 **Repository:** 
