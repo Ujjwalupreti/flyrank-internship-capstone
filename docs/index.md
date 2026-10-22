@@ -86,4 +86,4 @@ This project demonstrates how observable search-performance metrics can be trans
 
 Compared with a transparent rule-based baseline, the machine-learning workflow provides a ranked review queue supported by grouped validation, leakage checks, and human-readable reason codes.
 
-The resulting recommendations are intended to support editorial prioritization rather than automate publishing decisions.
+The resulting recommendations are intended to support editorial prioritization rather than automate publishing decisions.   
