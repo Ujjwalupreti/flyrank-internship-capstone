@@ -101,7 +101,7 @@ That runs the whole pipeline on the bundled sample and writes results to `output
 03_train_model.py        logistic regression, decision tree, random forest (client-holdout split)
 04_evaluate_and_export.py  ranked queue + charts + Markdown report
 05_build_pdf_report.py   a shareable PDF summary
-```
+``` 
 
 On the bundled sample, the learned model clearly beats the hand-written rule at picking the right
 pages to review first (**Precision@50 ≈ 0.24 → 0.74**; the model number can land 0.68–0.74
