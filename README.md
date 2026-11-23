@@ -144,4 +144,6 @@ build on — and the `skills/` folder here is the instruction library for your A
 
 ---
 
+![Dashboard Screenshot](flyrank-certificate-of-completion-machine-learning-43579ee6-c0be-479c-9714-27c92e59e9cb.pdf)
+
 *Track leads: Mirza Ašćerić (ML) · Hole (data engineering). Code under MIT (see `LICENSE`); data under `DATA_USE.md`.* 
